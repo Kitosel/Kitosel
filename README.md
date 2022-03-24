@@ -4,16 +4,15 @@
 
 [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://youtube.com/c/Kioselek)
 
-
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
+<!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to draw and play guitar / drums -->
 
 ### Yt:
 
-[![website](./img/youtube-light.svg)](https://youtube.com/c/Kioselek)
+[![website](./img/youtube-dark.svg)](https://youtube.com/c/Kioselek)
 &nbsp;&nbsp;
 
 ### Jezyki i programy
