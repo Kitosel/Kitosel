@@ -2,15 +2,13 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-y1UgaomytotRlzEooy3ww?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 
-[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://youtube.com/c/Kioselek)
-
 <!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
-### Yt:
+### Youtube:
 
 [![website](./img/youtube-dark.svg)](https://youtube.com/c/Kioselek)
 &nbsp;&nbsp;
