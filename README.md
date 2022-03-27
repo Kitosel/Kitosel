@@ -2,12 +2,6 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-y1UgaomytotRlzEooy3ww?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 
-<!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums -->
-
 ### Youtube:
 
 [![website](./img/youtube-dark.svg)](https://youtube.com/c/Kioselek)
@@ -15,7 +9,7 @@
 
 ### Jezyki i programy
 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/859e967e-5e1c-4ffc-9a9f-414fd7addabf/deploy-status)](https://app.netlify.com/sites/kiosel/deploys)
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
