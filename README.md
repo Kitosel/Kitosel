@@ -2,7 +2,7 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-y1UgaomytotRlzEooy3ww?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 
-### Youtube:
+### Youtube i web:
 
 [![website](./img/globe-dark.svg)](https://kiosel.pl)
 [![website](./img/youtube-dark.svg)](https://youtube.com/c/Kioselek)
